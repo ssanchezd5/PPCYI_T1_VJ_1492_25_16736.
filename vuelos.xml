@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<registroVuelos>
+
+    <vuelo>
+        <codigo>AV123</codigo>
+        <origen>Ciudad de México</origen>
+        <destino>Madrid</destino>
+        <duracion>11</duracion>
+        <aerolinea>Avianca</aerolinea>
+    </vuelo>
+
+    <vuelo>
+        <codigo>IB456</codigo>
+        <origen>Madrid</origen>
+        <destino>Buenos Aires</destino>
+        <duracion>13</duracion>
+        <aerolinea>Iberia</aerolinea>
+    </vuelo>
+
+    <vuelo>
+        <codigo>AA789</codigo>
+        <origen>New York</origen>
+        <destino>Los Ángeles</destino>
+        <duracion>6</duracion>
+        <aerolinea>American Airlines</aerolinea>
+    </vuelo>
+
+    <vuelo>
+        <codigo>CM321</codigo>
+        <origen>Ciudad de Panamá</origen>
+        <destino>Guatemala</destino>
+        <duracion>2</duracion>
+        <aerolinea>Copa Airlines</aerolinea>
+    </vuelo>
+
+    <vuelo>
+        <codigo>DL654</codigo>
+        <origen>Atlanta</origen>
+        <destino>Miami</destino>
+        <duracion>3</duracion>
+        <aerolinea>Delta Airlines</aerolinea>
+    </vuelo>
+
+</registroVuelos>
